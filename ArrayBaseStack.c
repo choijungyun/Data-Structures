@@ -1,4 +1,4 @@
-//¹è¿­±â¹İ ½ºÅÃ ±¸Çö 
+//ë°°ì—´ê¸°ë°˜ ìŠ¤íƒ êµ¬í˜„ 
 #include <stdio.h>
 #include <stdlib.h>
 #include "ArrayBaseStack.h"
