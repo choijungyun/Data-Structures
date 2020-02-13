@@ -62,5 +62,5 @@
 - 분할 정복 방법을 채택 
 - quick 정렬과 달리 시간복잡도를 항상 보장
 - 합치는 순간에 정렬 발생
-
+![합병](https://user-images.githubusercontent.com/25261332/74459446-a95e9900-4ece-11ea-849e-ef15f6f3d402.JPG)
 
